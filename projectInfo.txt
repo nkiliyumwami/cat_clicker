@@ -1,0 +1,5 @@
+The purpose of this project was to create an image and when you click on the image, the number of clicks increase.
+We first create an index.html and css.
+The big part was javascript with eventlistener and function
+
+Then comes the change of requirement which is obvious in web development, now we will have two cats, cat name and number of clicks... and much more.
